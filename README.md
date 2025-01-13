@@ -69,6 +69,9 @@ connection accepted from /127.0.0.1:random_port
 Hello from server
 ```
 
+![Webserver Screenshot](assets/webserver%20ss.png)
+
+
 ## Code Overview 🌍🔧🎨
 
 ### Server 🔧🌐🌌
